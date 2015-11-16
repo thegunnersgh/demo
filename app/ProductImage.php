@@ -6,6 +6,7 @@ class ProductImage extends Model {
 
 	protected $table= 'product_images';
 	//nhanh dev
+	//nhanh a
 
 	protected $fillable = ['image', 'product_id'];
 
